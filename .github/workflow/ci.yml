@@ -30,4 +30,4 @@ jobs:
       # Step 4: Run the tests using pytest.
       - name: Running tests
         run: |
-          python -m pytest addition.py
+          python -m pytest def.py
